@@ -5,7 +5,7 @@ class Filter extends Component {
     return (
       <div>
       <select onChange={this.props.sort}>
-      <option value="all">All</option>
+      <option value="all" >All</option>
       <option value="greased" >Greased</option>
       <option value="name" >Name</option>
       <option value="weight" >Weight</option>
