@@ -34,7 +34,6 @@ class App extends Component {
   }
 
   state = {
-    hogs: Hogs,
     sort: 'all'
   }
 
